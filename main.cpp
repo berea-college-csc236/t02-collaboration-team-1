@@ -26,7 +26,7 @@ int main() {
         cout << "              <(o )___-" << endl; // student 3(1) may change this line and add additional lines between this line and immediately below
         cout << "               ( .C    /" << endl; // student 3(2) may change this line
         cout << "                `--|--' " << endl; // TODO student 2 may change this line and may add lines below
-        cout << "                 __|    "
+        cout << "                 __|     "
             ;
     }
 
